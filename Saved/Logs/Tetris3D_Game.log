@@ -2428,3 +2428,665 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.29-04.05.48:192][488]AssetCheck: New page: Asset Save: BP_T_Child
 [2022.07.29-04.05.48:192][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/puzzle/BP_T_Child.BP_T_Child
 [2022.07.29-04.06.00:094][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.07.29-04.10.21:141][929]LogViewport: Scene viewport resized to 1203x875, mode Windowed.
+[2022.07.29-04.10.33:107][187]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.29-04.10.33:135][187]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.29-04.10.33:173][188]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.07.29-04.10.41:745][414]LogContentBrowser: Attempting asset rename: NewFolder -> PlayArea
+[2022.07.29-04.10.41:746][414]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea_C' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea:GetZDistanceByPosition.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea:GetZDistanceByPosition.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.SKEL_BP_PlayArea_C' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.SKEL_BP_PlayArea_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.SKEL_BP_PlayArea_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.SKEL_BP_PlayArea_C:BndEvt__BP_PlayArea_Collision_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.SKEL_BP_PlayArea_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.SKEL_BP_PlayArea_C:GetZDistanceByPosition' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:029][519]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea_C:GetZDistanceByPosition' ref from Metadata '/Game/Blueprints/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.10.47:117][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayArea/BP_PlayArea" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea.uasset" SILENT=true
+[2022.07.29-04.10.47:180][519]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayArea/BP_PlayArea
+[2022.07.29-04.10.47:181][519]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea57AA658A4E7D5DC5D8FDB39C1BABBF4A.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea.uasset'
+[2022.07.29-04.10.47:182][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayArea" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/BP_PlayArea.uasset" SILENT=true
+[2022.07.29-04.10.47:195][519]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayArea
+[2022.07.29-04.10.47:195][519]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea3F9C2FF8404D432EB2478AAC8C4266DC.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/BP_PlayArea.uasset'
+[2022.07.29-04.10.47:365][519]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.29-04.10.47:365][519]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayArea/BP_PlayArea.BP_PlayArea
+[2022.07.29-04.10.47:365][519]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea.BP_PlayArea
+[2022.07.29-04.10.47:365][519]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea.Default__BP_PlayArea_C
+[2022.07.29-04.10.47:365][519]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea.BP_PlayArea_C
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.BP_PlayArea_Easy_C:GetZDistanceByPosition' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.SKEL_BP_PlayArea_Easy_C' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.BP_PlayArea_Easy_C' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.BP_PlayArea_Easy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.SKEL_BP_PlayArea_Easy_C:GetZDistanceByPosition' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.SKEL_BP_PlayArea_Easy_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.SKEL_BP_PlayArea_Easy_C:BndEvt__BP_PlayArea_Collision_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.SKEL_BP_PlayArea_Easy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.49:988][580]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Easy.SKEL_BP_PlayArea_Easy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlayArea_Easy.PackageMetaData'
+[2022.07.29-04.10.50:049][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayArea/BP_PlayArea_Easy" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Easy.uasset" SILENT=true
+[2022.07.29-04.10.50:075][580]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayArea/BP_PlayArea_Easy
+[2022.07.29-04.10.50:075][580]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_EasyE5087EEC475946D953BA23B198B4B7CA.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Easy.uasset'
+[2022.07.29-04.10.50:077][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayArea_Easy" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/BP_PlayArea_Easy.uasset" SILENT=true
+[2022.07.29-04.10.50:078][580]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayArea_Easy
+[2022.07.29-04.10.50:078][580]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_EasyF9F9AA0049517D6F137CA88233A92094.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/BP_PlayArea_Easy.uasset'
+[2022.07.29-04.10.50:125][580]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.29-04.10.50:125][580]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Easy.BP_PlayArea_Easy
+[2022.07.29-04.10.50:125][580]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea_Easy.BP_PlayArea_Easy
+[2022.07.29-04.10.50:125][580]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea_Easy.Default__BP_PlayArea_Easy_C
+[2022.07.29-04.10.50:125][580]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea_Easy.BP_PlayArea_Easy_C
+[2022.07.29-04.10.54:315][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.07.29-04.10.55:932][688]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.29-04.10.56:271][688]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2022.07.29-04.10.56:448][688]LogUObjectHash: Compacting FUObjectHashTables data took  17.56ms
+[2022.07.29-04.10.56:593][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.07.29-04.11.13:728][ 79]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.11.13:728][ 79]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.11.15:470][115]LogContentBrowser: Deferred new asset file creation: BP_PlayArea1
+[2022.07.29-04.11.15:548][115]LogContentBrowser: Creating deferred item: BP_PlayArea1
+[2022.07.29-04.11.15:577][116]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PlayArea1).
+[2022.07.29-04.11.31:668][461]LogContentBrowser: Attempting asset rename: BP_PlayArea1 -> BP_PlayArea_Normal
+[2022.07.29-04.11.31:879][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.07.29-04.11.31:909][461]LogContentBrowser: End creating deferred item BP_PlayArea1
+[2022.07.29-04.11.37:091][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal
+[2022.07.29-04.11.37:092][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.11.39:799][621]LogViewport: Scene viewport resized to 1203x877, mode Windowed.
+[2022.07.29-04.14.07:344][250]LogContentBrowser: Deferred new asset file creation: BP_PlayArea_Child
+[2022.07.29-04.14.07:387][250]LogContentBrowser: Creating deferred item: BP_PlayArea_Child
+[2022.07.29-04.14.07:415][251]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PlayArea_Child).
+[2022.07.29-04.14.09:358][299]LogContentBrowser: Attempting asset rename: BP_PlayArea_Child -> BP_PlayArea_Child
+[2022.07.29-04.14.09:362][299]LogContentBrowser: End creating deferred item BP_PlayArea_Child
+[2022.07.29-04.14.10:140][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Child.BP_PlayArea_Child
+[2022.07.29-04.14.10:140][315]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.14.11:165][315]LogViewport: Scene viewport resized to 1203x877, mode Windowed.
+[2022.07.29-04.14.41:355][ 38]LogEditorTransaction: Undo Set Location
+[2022.07.29-04.14.41:860][ 41]LogEditorTransaction: Undo Set Scale
+[2022.07.29-04.14.58:398][423]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.14.58:398][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.15.01:764][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.29-04.15.03:698][481]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.29-04.15.04:087][481]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/PlayArea/BP_PlayArea_Child.BP_PlayArea_Child
+	Asset Type: Blueprint
+[2022.07.29-04.15.05:213][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.07.29-04.15.05:515][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.07.29-04.15.05:650][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.29-04.15.05:794][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.07.29-04.20.03:902][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.29-04.20.03:907][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level02" FILE="../../../../Unreal Projects/Tetris3D_Game/Saved/Autosaves/Game/Maps/Level02_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.29-04.20.03:937][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level02_Auto3
+[2022.07.29-04.20.03:937][683]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level02_Auto36F610BE84E4D59499C6261B66599CF66.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Saved/Autosaves/Game/Maps/Level02_Auto3.umap'
+[2022.07.29-04.20.03:947][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level02' took 0.885
+[2022.07.29-04.20.03:947][683]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.885
+[2022.07.29-04.20.03:947][683]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/PlayArea/BP_PlayArea_Normal] ([2] browsable assets)...
+[2022.07.29-04.20.04:147][683]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal]
+[2022.07.29-04.20.04:150][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayArea/BP_PlayArea_Normal]
+[2022.07.29-04.20.04:253][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PlayArea/BP_PlayArea_Normal_Auto3
+[2022.07.29-04.20.04:253][683]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_Normal_Auto3D39655E54F10FB988B2014A1CB1D24EA.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Saved/Autosaves/Game/Blueprints/PlayArea/BP_PlayArea_Normal_Auto3.uasset'
+[2022.07.29-04.20.04:253][683]LogFileHelpers: Auto-saving content packages took 0.306
+[2022.07.29-04.24.00:925][768]LogContentBrowser: Deferred new asset file creation: BP_PlayArea_Child
+[2022.07.29-04.24.00:961][768]LogContentBrowser: Creating deferred item: BP_PlayArea_Child
+[2022.07.29-04.24.00:991][769]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PlayArea_Child).
+[2022.07.29-04.24.02:311][807]LogContentBrowser: Attempting asset rename: BP_PlayArea_Child -> BP_PlayArea_Child
+[2022.07.29-04.24.02:315][807]LogContentBrowser: End creating deferred item BP_PlayArea_Child
+[2022.07.29-04.24.02:658][815]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Child.BP_PlayArea_Child
+[2022.07.29-04.24.02:658][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.24.03:537][815]LogViewport: Scene viewport resized to 1203x877, mode Windowed.
+[2022.07.29-04.25.15:814][624]LogEditorTransaction: Undo Add Variable
+[2022.07.29-04.28.36:245][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.07.29-04.28.37:409][192]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.29-04.28.37:772][192]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.28.37:773][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.28.37:866][192]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/PlayArea/BP_PlayArea_Child.BP_PlayArea_Child
+	Asset Type: Blueprint
+[2022.07.29-04.28.38:751][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.07.29-04.28.38:994][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.07.29-04.28.39:141][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.29-04.28.39:280][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.29-04.30.24:988][420]LogEditorTransaction: Undo Set Scale
+[2022.07.29-04.31.50:139][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.07.29-04.31.50:142][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level02' took 0.138
+[2022.07.29-04.31.50:143][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/PlayArea/BP_PlayArea_Normal] ([2] browsable assets)...
+[2022.07.29-04.31.50:172][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal]
+[2022.07.29-04.31.50:172][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayArea/BP_PlayArea_Normal]
+[2022.07.29-04.31.50:205][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PlayArea/BP_PlayArea_Normal_Auto4
+[2022.07.29-04.31.50:205][559]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_Normal_Auto4469D19DD49C2E9098BA2E1BE35A499C6.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Saved/Autosaves/Game/Blueprints/PlayArea/BP_PlayArea_Normal_Auto4.uasset'
+[2022.07.29-04.31.50:205][559]LogFileHelpers: Auto-saving content packages took 0.063
+[2022.07.29-04.32.59:384][308]BlueprintLog: New page: Compile BP_PlayArea_Normal
+[2022.07.29-04.32.59:621][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.07.29-04.33.07:745][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayArea/BP_PlayArea_Normal" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Normal.uasset" SILENT=true
+[2022.07.29-04.33.07:774][509]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayArea/BP_PlayArea_Normal
+[2022.07.29-04.33.07:774][509]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_Normal541A6991496851ABC77C15A9A3A7A94D.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Normal.uasset'
+[2022.07.29-04.33.07:925][509]AssetCheck: New page: Asset Save: BP_PlayArea_Normal
+[2022.07.29-04.33.07:925][509]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal
+[2022.07.29-04.33.26:428][948]LogContentBrowser: Attempting asset rename: BP_PlayArea -> BP_PlayArea_Hard
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C:GetZDistanceByPosition' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.SKEL_BP_PlayArea_Hard_C' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.SKEL_BP_PlayArea_Hard_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.SKEL_BP_PlayArea_Hard_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.SKEL_BP_PlayArea_Hard_C:BndEvt__BP_PlayArea_Collision_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.SKEL_BP_PlayArea_Hard_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.SKEL_BP_PlayArea_Hard_C:GetZDistanceByPosition' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard:GetZDistanceByPosition.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:496][948]LogMetaData: Removing '/Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard:GetZDistanceByPosition.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/PlayArea/BP_PlayArea.PackageMetaData'
+[2022.07.29-04.33.26:593][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayArea" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/BP_PlayArea.uasset" SILENT=true
+[2022.07.29-04.33.26:594][948]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayArea
+[2022.07.29-04.33.26:595][948]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea0E8F90D042DE5E1B0FA13D8A36F66F67.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/BP_PlayArea.uasset'
+[2022.07.29-04.33.26:596][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayArea/BP_PlayArea_Hard" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Hard.uasset" SILENT=true
+[2022.07.29-04.33.26:629][948]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayArea/BP_PlayArea_Hard
+[2022.07.29-04.33.26:629][948]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_Hard12DFE95E48BA2B47008C678673436E6B.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Hard.uasset'
+[2022.07.29-04.33.26:810][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.07.29-04.33.26:944][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.07.29-04.33.27:073][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.29-04.33.27:086][948]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.29-04.33.27:087][948]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard
+[2022.07.29-04.33.27:087][948]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea.BP_PlayArea
+[2022.07.29-04.33.27:087][948]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea.Default__BP_PlayArea_C
+[2022.07.29-04.33.27:087][948]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayArea.BP_PlayArea_C
+[2022.07.29-04.35.22:443][870]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.35.22:443][870]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.35.25:553][953]LogContentBrowser: Deferred new asset file creation: Level03
+[2022.07.29-04.35.25:572][953]LogContentBrowser: Creating deferred item: Level03
+[2022.07.29-04.35.25:623][954]LogContentBrowser: Renaming the item being created (Deferred Item: Level03).
+[2022.07.29-04.35.27:612][ 11]LogContentBrowser: Attempting asset rename: Level03 -> Level03
+[2022.07.29-04.35.27:817][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.07.29-04.35.27:917][ 11]LogContentBrowser: End creating deferred item Level03
+[2022.07.29-04.35.38:754][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.07.29-04.35.41:799][288]LogSlate: Window 'Save Content' being destroyed
+[2022.07.29-04.35.41:988][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.35.42:000][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.35.42:136][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.07.29-04.35.42:149][288]LogSavePackage: Moving output files for package: /Game/Maps/Level01
+[2022.07.29-04.35.42:225][288]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level01D4FF608E453B511B8B289E8574ED790B.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level01.umap'
+[2022.07.29-04.35.42:237][288]LogFileHelpers: Saving map 'Level01' took 0.249
+[2022.07.29-04.35.42:237][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level02" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.35.42:364][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.07.29-04.35.42:432][288]LogSavePackage: Moving output files for package: /Game/Maps/Level02
+[2022.07.29-04.35.42:432][288]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level0280CABBEA4FD954A55D2201BE172400E6.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level02.umap'
+[2022.07.29-04.35.42:448][288]LogFileHelpers: Saving map 'Level02' took 0.212
+[2022.07.29-04.35.42:448][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.35.42:454][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level03" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.35.42:593][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.07.29-04.35.42:604][288]LogSavePackage: Moving output files for package: /Game/Maps/Level03
+[2022.07.29-04.35.42:604][288]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level03AF1FF6EF4386BF93EE091A89C3B1EEB6.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap'
+[2022.07.29-04.35.42:613][288]LogFileHelpers: Saving map 'Level03' took 0.165
+[2022.07.29-04.35.42:625][288]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.35.42:625][288]LightingResults: New page: Lighting Build
+[2022.07.29-04.35.42:625][288]LoadErrors: New page: Loading map: Level03.umap
+[2022.07.29-04.35.42:664][288]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.35.42:664][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.35.42:864][288]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.35.42:864][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.35.42:865][288]MapCheck: New page: Map Check
+[2022.07.29-04.35.42:865][288]LightingResults: New page: Lighting Build
+[2022.07.29-04.35.42:985][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.35.43:036][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.07.29-04.35.43:047][288]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.35.43:047][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.35.43:049][288]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.35.43:049][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.35.43:432][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.07.29-04.35.43:565][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.07.29-04.35.43:583][288]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level03'.
+[2022.07.29-04.35.43:583][288]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.35.43:584][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.35.43:584][288]LogAIModule: Creating AISystem for world Level03
+[2022.07.29-04.35.43:618][288]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.35.43:734][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.29-04.35.43:754][288]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.35.43:754][288]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2022.07.29-04.35.43:754][288]LogFileHelpers: Loading map 'Level03' took 1.129
+[2022.07.29-04.35.43:755][288]LogSlate: Window 'Open Level' being destroyed
+[2022.07.29-04.35.43:772][288]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.29-04.35.43:773][288]LogContentValidation: Display: Validating World /Game/Maps/Level03.Level03
+[2022.07.29-04.35.43:773][288]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2022.07.29-04.35.43:804][288]LogContentValidation: Display: Validating World /Game/Maps/Level02.Level02
+[2022.07.29-04.35.53:059][461]Cmd: DELETE
+[2022.07.29-04.35.53:059][461]Cmd: ACTOR DELETE
+[2022.07.29-04.35.53:061][461]LogEditorActor: Deleted Actor: BP_PlayArea_Easy_C
+[2022.07.29-04.35.53:189][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.07.29-04.35.53:194][461]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2022.07.29-04.36.10:181][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C
+[2022.07.29-04.36.10:181][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C
+[2022.07.29-04.36.10:185][885]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard as actor: BP_PlayArea_Hard_C /Game/Maps/Level03.Level03:PersistentLevel.BP_PlayArea_Hard_C_0
+[2022.07.29-04.36.10:191][885]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard as actor: BP_PlayArea_Hard_C /Game/Maps/Level03.Level03:PersistentLevel.BP_PlayArea_Hard_C_0
+[2022.07.29-04.36.11:491][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C
+[2022.07.29-04.36.11:491][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard_C
+[2022.07.29-04.36.11:498][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard as actor: BP_PlayArea_Hard_C /Game/Maps/Level03.Level03:PersistentLevel.BP_PlayArea_Hard_C_1
+[2022.07.29-04.36.11:504][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard as actor: BP_PlayArea_Hard_C /Game/Maps/Level03.Level03:PersistentLevel.BP_PlayArea_Hard_C_1
+[2022.07.29-04.36.26:366][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.07.29-04.36.27:835][265]LogSlate: Window 'Save Content' being destroyed
+[2022.07.29-04.36.27:845][265]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.36.27:845][265]LightingResults: New page: Lighting Build
+[2022.07.29-04.36.27:845][265]LoadErrors: New page: Loading map: Level02.umap
+[2022.07.29-04.36.27:849][265]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.27:849][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.27:850][265]MapCheck: New page: Map Check
+[2022.07.29-04.36.27:850][265]LightingResults: New page: Lighting Build
+[2022.07.29-04.36.28:015][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.36.28:019][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.29-04.36.28:028][265]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.28:028][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.28:030][265]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.28:030][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.28:151][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.29-04.36.28:256][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.07.29-04.36.28:265][265]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level02'.
+[2022.07.29-04.36.28:265][265]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.36.28:265][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.36.28:266][265]LogAIModule: Creating AISystem for world Level02
+[2022.07.29-04.36.28:300][265]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.36.28:415][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.07.29-04.36.28:428][265]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.36.28:428][265]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2022.07.29-04.36.28:428][265]LogFileHelpers: Loading map 'Level02' took 0.584
+[2022.07.29-04.36.28:429][265]LogSlate: Window 'Open Level' being destroyed
+[2022.07.29-04.36.35:845][416]LogObjectTools: Deleting 1 worlds: /Game/Maps/Level03.Level03
+[2022.07.29-04.36.35:845][416]LogObjectTools: Currently 21 active worlds: /Game/Maps/Level02.Level02, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_25
+[2022.07.29-04.36.35:961][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.07.29-04.36.37:606][416]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.29-04.36.37:613][416]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.37:613][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.37:640][416]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.07.29-04.36.37:640][416]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.37:640][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.37:786][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.07.29-04.36.37:902][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.07.29-04.36.38:011][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.07.29-04.36.40:523][465]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.36.40:523][465]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.36.42:639][502]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.36.42:639][502]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.36.44:368][542]LogContentBrowser: Deferred new asset file creation: Level03
+[2022.07.29-04.36.44:401][542]LogContentBrowser: Creating deferred item: Level03
+[2022.07.29-04.36.44:422][543]LogContentBrowser: Renaming the item being created (Deferred Item: Level03).
+[2022.07.29-04.36.45:231][565]LogContentBrowser: Attempting asset rename: Level03 -> Level03
+[2022.07.29-04.36.45:364][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.07.29-04.36.45:411][565]LogContentBrowser: End creating deferred item Level03
+[2022.07.29-04.36.49:143][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.07.29-04.36.50:555][648]LogSlate: Window 'Save Content' being destroyed
+[2022.07.29-04.36.50:742][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.36.50:756][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level03" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.36.50:865][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.07.29-04.36.50:875][648]LogSavePackage: Moving output files for package: /Game/Maps/Level03
+[2022.07.29-04.36.50:875][648]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level0350A28E064ED195670F8F8B91B07ACF00.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap'
+[2022.07.29-04.36.50:886][648]LogFileHelpers: Saving map 'Level03' took 0.144
+[2022.07.29-04.36.50:904][648]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.36.50:904][648]LightingResults: New page: Lighting Build
+[2022.07.29-04.36.50:904][648]LoadErrors: New page: Loading map: Level03.umap
+[2022.07.29-04.36.50:906][648]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.50:906][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.50:907][648]MapCheck: New page: Map Check
+[2022.07.29-04.36.50:907][648]LightingResults: New page: Lighting Build
+[2022.07.29-04.36.51:008][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.36.51:014][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.07.29-04.36.51:017][648]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.51:017][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.51:019][648]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.36.51:019][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.36.51:121][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.29-04.36.51:229][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.07.29-04.36.51:238][648]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level03'.
+[2022.07.29-04.36.51:238][648]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.36.51:239][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.36.51:239][648]LogAIModule: Creating AISystem for world Level03
+[2022.07.29-04.36.51:271][648]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.36.51:392][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.29-04.36.51:405][648]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.36.51:405][648]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2022.07.29-04.36.51:405][648]LogFileHelpers: Loading map 'Level03' took 0.501
+[2022.07.29-04.36.51:405][648]LogSlate: Window 'Open Level' being destroyed
+[2022.07.29-04.36.51:428][648]AssetCheck: New page: Asset Save: Level03
+[2022.07.29-04.36.51:432][648]LogContentValidation: Display: Validating World /Game/Maps/Level03.Level03
+[2022.07.29-04.37.19:063][328]LogSlate: Window 'Open Level' being destroyed
+[2022.07.29-04.37.39:578][829]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.37.39:578][829]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.29-04.37.40:286][844]LogContentBrowser: Deferred new asset file creation: Level04
+[2022.07.29-04.37.40:308][844]LogContentBrowser: Creating deferred item: Level04
+[2022.07.29-04.37.40:332][845]LogContentBrowser: Renaming the item being created (Deferred Item: Level04).
+[2022.07.29-04.37.42:043][891]LogContentBrowser: Attempting asset rename: Level04 -> Level04
+[2022.07.29-04.37.42:186][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.07.29-04.37.42:286][891]LogContentBrowser: End creating deferred item Level04
+[2022.07.29-04.37.44:181][940]LogObjectTools: Deleting 1 worlds: /Game/Maps/Level01.Level01
+[2022.07.29-04.37.44:181][940]LogObjectTools: Currently 21 active worlds: /Game/Maps/Level03.Level03, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_25
+[2022.07.29-04.37.44:306][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.07.29-04.38.05:204][940]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.29-04.38.05:266][940]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Maps/Level01.Level01
+	Asset Type: World
+[2022.07.29-04.38.05:818][940]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.38.05:818][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.38.06:394][940]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.07.29-04.38.06:640][940]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.07.29-04.38.06:641][940]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.38.06:641][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.38.06:736][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.07.29-04.38.06:825][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.07.29-04.38.06:918][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.07.29-04.38.12:550][ 86]LogContentBrowser: Attempting asset rename: Level02 -> Level01
+[2022.07.29-04.38.18:294][ 86]LogSlate: Window 'Message' being destroyed
+[2022.07.29-04.38.18:351][ 86]Message dialog closed, result: Yes, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+Level02 (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2022.07.29-04.38.18:572][ 86]LogMetaData: Removing '/Game/Maps/Level01.Level01_C' ref from Metadata '/Game/Maps/Level02.PackageMetaData'
+[2022.07.29-04.38.18:572][ 86]LogMetaData: Removing '/Game/Maps/Level01.SKEL_Level01_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/Level02.PackageMetaData'
+[2022.07.29-04.38.18:572][ 86]LogMetaData: Removing '/Game/Maps/Level01.SKEL_Level01_C:ReceiveTick' ref from Metadata '/Game/Maps/Level02.PackageMetaData'
+[2022.07.29-04.38.18:572][ 86]LogMetaData: Removing '/Game/Maps/Level01.SKEL_Level01_C' ref from Metadata '/Game/Maps/Level02.PackageMetaData'
+[2022.07.29-04.38.18:572][ 86]LogMetaData: Removing '/Game/Maps/Level01.Level01_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/Level02.PackageMetaData'
+[2022.07.29-04.38.18:750][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.38.18:758][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.38.18:848][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.07.29-04.38.18:859][ 86]LogSavePackage: Moving output files for package: /Game/Maps/Level01
+[2022.07.29-04.38.18:859][ 86]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level01FCAE25924621EE1957E210962860C6F6.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level01.umap'
+[2022.07.29-04.38.18:864][ 86]LogFileHelpers: Saving map 'Level01' took 0.114
+[2022.07.29-04.38.18:865][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level02" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level02.umap" SILENT=true
+[2022.07.29-04.38.18:866][ 86]LogSavePackage: Moving output files for package: /Game/Maps/Level02
+[2022.07.29-04.38.18:866][ 86]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level02ED528A9444B3B4838FA440B37CD9BF97.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level02.umap'
+[2022.07.29-04.38.18:894][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.29-04.38.18:894][ 86]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2022.07.29-04.38.18:894][ 86]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/Level02.Level02
+[2022.07.29-04.38.18:894][ 86]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/Level02.Default__Level02_C
+[2022.07.29-04.38.18:894][ 86]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/Level02.Level02_C
+[2022.07.29-04.38.30:310][379]LogContentBrowser: Attempting asset rename: Level04 -> Level04
+[2022.07.29-04.38.40:409][647]LogContentBrowser: Attempting asset rename: Level04 -> Level04
+[2022.07.29-04.38.47:522][797]LogEditorViewport: Clicking Background
+[2022.07.29-04.39.06:546][283]LogContentBrowser: Attempting asset rename: Level04 -> Level04
+[2022.07.29-04.39.09:469][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level03" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.39.09:641][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.29-04.39.09:658][353]LogSavePackage: Moving output files for package: /Game/Maps/Level03
+[2022.07.29-04.39.09:658][353]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level0376815B4B420C953437B56B9AA1A583CE.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap'
+[2022.07.29-04.39.09:831][353]AssetCheck: New page: Asset Save: Level03
+[2022.07.29-04.39.09:831][353]LogContentValidation: Display: Validating World /Game/Maps/Level03.Level03
+[2022.07.29-04.39.14:944][471]LogSlate: Window 'Open Level' being destroyed
+[2022.07.29-04.39.24:067][704]LogContentBrowser: Attempting asset rename: Level04 -> Level04
+[2022.07.29-04.39.37:361][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2022.07.29-04.39.39:824][ 40]LogSlate: Window 'Save Content' being destroyed
+[2022.07.29-04.39.39:832][ 40]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level01.Level01
+[2022.07.29-04.39.39:842][ 40]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.39.39:842][ 40]LightingResults: New page: Lighting Build
+[2022.07.29-04.39.39:843][ 40]LoadErrors: New page: Loading map: Level01.umap
+[2022.07.29-04.39.39:847][ 40]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.39:847][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.39:848][ 40]MapCheck: New page: Map Check
+[2022.07.29-04.39.39:848][ 40]LightingResults: New page: Lighting Build
+[2022.07.29-04.39.40:047][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.39.40:053][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.07.29-04.39.40:057][ 40]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.40:057][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.40:197][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.07.29-04.39.40:348][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.29-04.39.40:363][ 40]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2022.07.29-04.39.40:364][ 40]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.39.40:364][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.39.40:364][ 40]LogAIModule: Creating AISystem for world Level01
+[2022.07.29-04.39.40:395][ 40]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.39.40:538][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.07.29-04.39.40:675][ 40]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.39.40:675][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2022.07.29-04.39.40:675][ 40]LogFileHelpers: Loading map 'Level01' took 0.833
+[2022.07.29-04.39.53:159][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.07.29-04.39.54:490][336]LogSlate: Window 'Save Content' being destroyed
+[2022.07.29-04.39.54:648][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.39.54:657][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level04" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.39.54:773][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.07.29-04.39.54:789][336]LogSavePackage: Moving output files for package: /Game/Maps/Level04
+[2022.07.29-04.39.54:789][336]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level04E744361C45D9C100AAAF229763CE3F76.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level04.umap'
+[2022.07.29-04.39.54:797][336]LogFileHelpers: Saving map 'Level04' took 0.151
+[2022.07.29-04.39.54:974][336]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level03.Level03
+[2022.07.29-04.39.54:974][336]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.39.54:974][336]LightingResults: New page: Lighting Build
+[2022.07.29-04.39.54:974][336]LoadErrors: New page: Loading map: Level03.umap
+[2022.07.29-04.39.54:976][336]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.54:976][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.54:977][336]MapCheck: New page: Map Check
+[2022.07.29-04.39.54:977][336]LightingResults: New page: Lighting Build
+[2022.07.29-04.39.55:092][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.39.55:099][336]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.07.29-04.39.55:102][336]LogWorld: UWorld::CleanupWorld for Level04, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.55:102][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.55:104][336]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.55:104][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.55:236][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.29-04.39.55:356][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.29-04.39.55:368][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level03'.
+[2022.07.29-04.39.55:368][336]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.39.55:368][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.39.55:368][336]LogAIModule: Creating AISystem for world Level03
+[2022.07.29-04.39.55:394][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.39.55:518][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.07.29-04.39.55:533][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.39.55:533][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2022.07.29-04.39.55:533][336]LogFileHelpers: Loading map 'Level03' took 0.560
+[2022.07.29-04.39.55:573][336]AssetCheck: New page: Asset Save: Level04
+[2022.07.29-04.39.55:573][336]LogContentValidation: Display: Validating World /Game/Maps/Level04.Level04
+[2022.07.29-04.39.59:524][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.07.29-04.39.59:529][409]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level04.Level04
+[2022.07.29-04.39.59:529][409]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.39.59:529][409]LightingResults: New page: Lighting Build
+[2022.07.29-04.39.59:529][409]LoadErrors: New page: Loading map: Level04.umap
+[2022.07.29-04.39.59:532][409]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.59:532][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.59:533][409]MapCheck: New page: Map Check
+[2022.07.29-04.39.59:533][409]LightingResults: New page: Lighting Build
+[2022.07.29-04.39.59:651][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.39.59:655][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.07.29-04.39.59:658][409]LogWorld: UWorld::CleanupWorld for Level04, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.39.59:659][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.39.59:783][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.07.29-04.39.59:901][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.07.29-04.39.59:909][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level04'.
+[2022.07.29-04.39.59:909][409]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.39.59:909][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.39.59:911][409]LogAIModule: Creating AISystem for world Level04
+[2022.07.29-04.39.59:940][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.40.00:091][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.07.29-04.40.00:105][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.40.00:106][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2022.07.29-04.40.00:106][409]LogFileHelpers: Loading map 'Level04' took 0.577
+[2022.07.29-04.40.08:178][597]LogContentBrowser: Attempting asset rename: Level04 -> Level04
+[2022.07.29-04.40.13:829][738]Cmd: DELETE
+[2022.07.29-04.40.13:829][738]Cmd: ACTOR DELETE
+[2022.07.29-04.40.13:832][738]LogEditorActor: Deleted Actor: BP_PlayArea_Easy_C
+[2022.07.29-04.40.13:972][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.07.29-04.40.13:976][738]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2022.07.29-04.40.21:616][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal_C
+[2022.07.29-04.40.21:616][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal_C
+[2022.07.29-04.40.21:627][930]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal as actor: BP_PlayArea_Normal_C /Game/Maps/Level04.Level04:PersistentLevel.BP_PlayArea_Normal_C_0
+[2022.07.29-04.40.21:632][930]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal as actor: BP_PlayArea_Normal_C /Game/Maps/Level04.Level04:PersistentLevel.BP_PlayArea_Normal_C_0
+[2022.07.29-04.40.22:626][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal_C
+[2022.07.29-04.40.22:626][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal_C
+[2022.07.29-04.40.22:634][953]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal as actor: BP_PlayArea_Normal_C /Game/Maps/Level04.Level04:PersistentLevel.BP_PlayArea_Normal_C_1
+[2022.07.29-04.40.22:639][953]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Normal.BP_PlayArea_Normal as actor: BP_PlayArea_Normal_C /Game/Maps/Level04.Level04:PersistentLevel.BP_PlayArea_Normal_C_1
+[2022.07.29-04.40.28:734][ 98]LogViewport: Scene viewport resized to 565x338, mode Windowed.
+[2022.07.29-04.40.34:813][233]LogViewport: Scene viewport resized to 565x338, mode Windowed.
+[2022.07.29-04.40.59:752][741]LogViewport: Scene viewport resized to 1203x877, mode Windowed.
+[2022.07.29-04.41.05:033][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.29-04.41.05:052][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.29-04.41.05:053][878]PIE: New page: PIE session: Level04 (Jul 29, 2022, 6:41:05 PM)
+[2022.07.29-04.41.05:053][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level04
+[2022.07.29-04.41.05:057][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003857s)
+[2022.07.29-04.41.05:057][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level04.Level04 to /Game/Maps/UEDPIE_0_Level04.Level04 (0.003998s)
+[2022.07.29-04.41.05:057][878]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.41.05:057][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.41.05:058][878]LogAIModule: Creating AISystem for world Level04
+[2022.07.29-04.41.05:058][878]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2022.07.29-04.41.05:199][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2022.07.29-04.41.05:204][878]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.29-04.41.05:204][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.29-04.41.05:204][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.29-04.41.05:205][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.29-04.41.05:205][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.29-04.41.05:205][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.29-04.41.05:249][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.29-04.41.05:304][878]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.07.29-04.41.05:305][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.29-04.41.05:305][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.29-04.41.05:305][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.29-04.41.05:307][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.07.29-04.41.05:307][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2022.07.29-04.41.05:310][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.07.29-04.41.05:310][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.07.29-04.41.05:310][878]LogInit: FAudioDevice initialized.
+[2022.07.29-04.41.05:310][878]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level04'.
+[2022.07.29-04.41.05:329][878]LogLoad: Game class is 'TetrisGameMode_C'
+[2022.07.29-04.41.05:331][878]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level04.Level04 up for play (max tick rate 60) at 2022.07.29-11.41.05
+[2022.07.29-04.41.05:332][878]LogWorld: Bringing up level for play took: 0.003077
+[2022.07.29-04.41.05:335][878]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.07.29-04.41.05:336][878]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.29-04.41.05:337][878]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.29-04.41.05:337][878]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.29-04.41.05:338][878]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.29-04.41.05:338][878]PIE: Server logged in
+[2022.07.29-04.41.05:339][878]PIE: Play in editor total start time 0.292 seconds.
+[2022.07.29-04.41.08:632][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.29-04.41.08:632][946]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level04
+[2022.07.29-04.41.08:632][946]LogWorld: UWorld::CleanupWorld for Level04, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.41.08:633][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.41.08:705][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.29-04.41.08:716][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.41.08:847][946]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.41.08:847][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.07.29-04.41.08:850][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.07.29-04.41.08:861][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.29-04.41.08:868][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.07.29-04.41.09:027][947]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.07.29-04.41.24:021][332]LogViewport: Scene viewport resized to 1203x877, mode Windowed.
+[2022.07.29-04.46.18:296][493]BlueprintLog: New page: Compile BP_PlayArea_Hard
+[2022.07.29-04.46.18:589][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.07.29-04.46.21:340][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayArea/BP_PlayArea_Hard" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Hard.uasset" SILENT=true
+[2022.07.29-04.46.21:373][557]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayArea/BP_PlayArea_Hard
+[2022.07.29-04.46.21:374][557]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/BP_PlayArea_Hard1D7E574B4B1B722596DB158EB678E91D.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Blueprints/PlayArea/BP_PlayArea_Hard.uasset'
+[2022.07.29-04.46.21:403][557]AssetCheck: New page: Asset Save: BP_PlayArea_Hard
+[2022.07.29-04.46.21:403][557]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayArea/BP_PlayArea_Hard.BP_PlayArea_Hard
+[2022.07.29-04.46.52:439][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.29-04.46.53:749][313]LogSlate: Window 'Save Content' being destroyed
+[2022.07.29-04.46.53:897][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level04" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.46.54:039][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.07.29-04.46.54:052][313]LogSavePackage: Moving output files for package: /Game/Maps/Level04
+[2022.07.29-04.46.54:053][313]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level04ABD4117340EE7DB049A859B3BFDACB68.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level04.umap'
+[2022.07.29-04.46.54:071][313]LogFileHelpers: Saving map 'Level04' took 0.175
+[2022.07.29-04.46.54:206][313]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level03.Level03
+[2022.07.29-04.46.54:206][313]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.29-04.46.54:206][313]LightingResults: New page: Lighting Build
+[2022.07.29-04.46.54:206][313]LoadErrors: New page: Loading map: Level03.umap
+[2022.07.29-04.46.54:212][313]LogWorld: UWorld::CleanupWorld for Level04, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.46.54:212][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.46.54:213][313]MapCheck: New page: Map Check
+[2022.07.29-04.46.54:213][313]LightingResults: New page: Lighting Build
+[2022.07.29-04.46.54:331][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.46.54:337][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.07.29-04.46.54:340][313]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.46.54:340][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.46.54:478][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.07.29-04.46.54:613][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.29-04.46.54:623][313]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level03'.
+[2022.07.29-04.46.54:623][313]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.46.54:623][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.46.54:624][313]LogAIModule: Creating AISystem for world Level03
+[2022.07.29-04.46.54:654][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.29-04.46.54:782][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.07.29-04.46.54:798][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.29-04.46.54:798][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2022.07.29-04.46.54:798][313]LogFileHelpers: Loading map 'Level03' took 0.592
+[2022.07.29-04.46.54:840][313]AssetCheck: New page: Asset Save: Level04
+[2022.07.29-04.46.54:840][313]LogContentValidation: Display: Validating World /Game/Maps/Level04.Level04
+[2022.07.29-04.47.27:857][ 47]LogViewport: Scene viewport resized to 565x338, mode Windowed.
+[2022.07.29-04.47.33:227][138]LogViewport: Scene viewport resized to 565x338, mode Windowed.
+[2022.07.29-04.47.56:200][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.29-04.47.56:216][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.29-04.47.56:216][558]PIE: New page: PIE session: Level03 (Jul 29, 2022, 6:47:56 PM)
+[2022.07.29-04.47.56:216][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level03
+[2022.07.29-04.47.56:239][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023371s)
+[2022.07.29-04.47.56:239][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level03.Level03 to /Game/Maps/UEDPIE_0_Level03.Level03 (0.023604s)
+[2022.07.29-04.47.56:240][558]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.29-04.47.56:240][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.29-04.47.56:241][558]LogAIModule: Creating AISystem for world Level03
+[2022.07.29-04.47.56:241][558]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2022.07.29-04.47.56:377][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.07.29-04.47.56:384][558]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.07.29-04.47.56:384][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.29-04.47.56:385][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.29-04.47.56:385][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.29-04.47.56:385][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.29-04.47.56:385][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.29-04.47.56:385][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.29-04.47.56:385][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.29-04.47.56:385][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.29-04.47.56:385][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.29-04.47.56:385][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.29-04.47.56:386][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.29-04.47.56:388][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.29-04.47.56:438][558]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.07.29-04.47.56:438][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.29-04.47.56:438][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.29-04.47.56:438][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.29-04.47.56:439][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.07.29-04.47.56:440][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.07.29-04.47.56:442][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.07.29-04.47.56:442][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.07.29-04.47.56:442][558]LogInit: FAudioDevice initialized.
+[2022.07.29-04.47.56:442][558]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level03'.
+[2022.07.29-04.47.56:474][558]LogLoad: Game class is 'TetrisGameMode_C'
+[2022.07.29-04.47.56:476][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level03.Level03 up for play (max tick rate 60) at 2022.07.29-11.47.56
+[2022.07.29-04.47.56:476][558]LogWorld: Bringing up level for play took: 0.001377
+[2022.07.29-04.47.56:479][558]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2022.07.29-04.47.56:481][558]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.29-04.47.56:481][558]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.29-04.47.56:482][558]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.29-04.47.56:485][558]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.29-04.47.56:485][558]PIE: Server logged in
+[2022.07.29-04.47.56:486][558]PIE: Play in editor total start time 0.274 seconds.
+[2022.07.29-04.48.02:417][687]LogBlueprintUserMessages: [BP_PlayArea_C_3] 1
+[2022.07.29-04.48.02:417][687]LogBlueprintUserMessages: [BP_PlayArea_C_3] 2
+[2022.07.29-04.48.02:417][687]LogBlueprintUserMessages: [BP_PlayArea_C_3] 3
+[2022.07.29-04.48.04:789][757]LogBlueprintUserMessages: [BP_PlayArea_C_3] 4
+[2022.07.29-04.48.04:789][757]LogBlueprintUserMessages: [BP_PlayArea_C_3] 5
+[2022.07.29-04.48.04:790][757]LogBlueprintUserMessages: [BP_PlayArea_C_3] 6
+[2022.07.29-04.48.04:790][757]LogBlueprintUserMessages: [BP_PlayArea_C_3] 7
+[2022.07.29-04.48.12:865][ 24]LogBlueprintUserMessages: [BP_PlayArea_C_3] 8
+[2022.07.29-04.48.12:866][ 24]LogBlueprintUserMessages: [BP_PlayArea_C_3] 9
+[2022.07.29-04.48.12:866][ 24]LogBlueprintUserMessages: [BP_PlayArea_C_3] 10
+[2022.07.29-04.48.12:866][ 24]LogBlueprintUserMessages: [BP_PlayArea_C_3] 11
+[2022.07.29-04.48.17:066][160]LogBlueprintUserMessages: [BP_PlayArea_C_3] 12
+[2022.07.29-04.48.17:066][160]LogBlueprintUserMessages: [BP_PlayArea_C_3] 13
+[2022.07.29-04.48.17:066][160]LogBlueprintUserMessages: [BP_PlayArea_C_3] 14
+[2022.07.29-04.48.20:084][259]LogBlueprintUserMessages: [BP_PlayArea_C_3] 15
+[2022.07.29-04.48.20:084][259]LogBlueprintUserMessages: [BP_PlayArea_C_3] 16
+[2022.07.29-04.48.20:084][259]LogBlueprintUserMessages: [BP_PlayArea_C_3] 17
+[2022.07.29-04.48.28:274][527]LogBlueprintUserMessages: [BP_PlayArea_C_3] 18
+[2022.07.29-04.48.29:134][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.29-04.48.29:135][554]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level03
+[2022.07.29-04.48.29:135][554]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2022.07.29-04.48.29:135][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.48.29:190][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.29-04.48.29:203][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.29-04.48.29:338][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.29-04.48.29:339][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.07.29-04.48.29:341][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.07.29-04.48.29:347][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.29-04.48.29:354][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.07.29-04.48.29:574][555]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.07.29-04.48.35:244][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level03" FILE="../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.29-04.48.35:401][658]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.07.29-04.48.35:417][658]LogSavePackage: Moving output files for package: /Game/Maps/Level03
+[2022.07.29-04.48.35:417][658]LogSavePackage: Moving '../../../../Unreal Projects/Tetris3D_Game/Saved/Level038B2013B64A4A3A28AC78D0BD69DFA386.tmp' to '../../../../Unreal Projects/Tetris3D_Game/Content/Maps/Level03.umap'
+[2022.07.29-04.48.35:467][658]AssetCheck: New page: Asset Save: Level03
+[2022.07.29-04.48.35:468][658]LogContentValidation: Display: Validating World /Game/Maps/Level03.Level03
